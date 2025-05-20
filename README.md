@@ -1,8 +1,8 @@
-👋 Hi, I’m @khushisiwach
+👋 Hi, I’m @KhushiChaudhary
 
 👀 I’m interested in web development and creating visually appealing projects.
 
-🌱 I’m currently learning frontend development and C++.
+🌱 I’m currently learning MERN Stack and C++.
 
 💞️ I’m looking to collaborate on innovative web projects and exciting challenges.
 
